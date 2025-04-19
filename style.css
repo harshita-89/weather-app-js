@@ -154,6 +154,8 @@ hr{
             display: grid;
             grid-template-columns: repeat(4, 1fr);
             place-items: center;
+            gap: 1rem 2rem;/*updated*/
+
             & p{
                 text-align: center;
             }
