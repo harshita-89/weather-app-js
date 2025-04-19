@@ -1,8 +1,7 @@
 let cityInput = document.getElementById('city');
 let searchBtn = document.getElementById('search-btn');
 let locationBtn = document.getElementById('location-btn');
-const api_key = 'af887d65539cf8cfe1ef5c24ffc283ec';
-// const api_key = 'YOUR_API_KEY_HERE';
+const api_key = 'YOUR_API_KEY_HERE';
 
 
 currentWeatherCard = document.querySelectorAll('.weather-left .card')[0];
